@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nick+Cheung;Freelance+Software+Engineer)](https://git.io/typing-svg)
-
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Nick+Cheung;Freelance+Software+Engineer)](https://git.io/typing-svg)alt="Example Usage - README Typing SVG">
+</p>
+<!-- markdownlint-enable MD033 -->
 
 💾 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
