@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Nick+Cheung;Freelance+Software+Engineer)](https://git.io/typing-svg)alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Nick+Cheung;Freelance+Software+Engineer" alt="Example Usage - README Typing SVG">
 </p>
 <!-- markdownlint-enable MD033 -->
 
