@@ -6,6 +6,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 👋 Hi, I’m Nicholas Cheung — a full-stack software engineer with a background in microbiology and a passion for building meaningful, user-centered applications. I enjoy solving complex problems, collaborating across teams, and constantly learning new technologies. Currently working with JavaScript, React, Node.js, and Neo4j. Let’s build something impactful together!
 
+<div align="center">
+  <a href="mailto:nkkcheung@gmail.com" >
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/nicholas-cheung-6a72999/" >
+    <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
