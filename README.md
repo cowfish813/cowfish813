@@ -1,8 +1,10 @@
-<!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Nick+Cheung;Freelance+Software+Engineer" alt="Example Usage - README Typing SVG">
 </p>
-<!-- markdownlint-enable MD033 -->
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***About Me***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+👋 Hi, I’m Nicholas Cheung — a full-stack software engineer with a background in microbiology and a passion for building meaningful, user-centered applications. I enjoy solving complex problems, collaborating across teams, and constantly learning new technologies. Currently working with JavaScript, React, Node.js, and Neo4j. Let’s build something impactful together!
 
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
